@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "絶望年表",
+  "base_artist": "ReoNa",
+  "createdAt": "2025-12-18T07:16:51.420460Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絶望年表",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/01_絶望年表_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "絶望年表 \"unknown ver. Live at PACIFICO YOKOHAMA 2021.04.29\" (Live)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/02_絶望年表__unknown_ver._Live_at_PACIFICO_YOKOHAMA_2021.04.29__(Live)_ReoNa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絶望年表",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_絶望年表_ReoNa.txt"
+    }
+  ]
+}
